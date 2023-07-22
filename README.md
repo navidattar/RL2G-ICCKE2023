@@ -1,1 +1,1 @@
-# RL2G-ICCKE2023
+    pip install -r requirements.txt
